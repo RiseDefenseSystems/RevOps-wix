@@ -1,0 +1,418 @@
+idl-client info IDL directory and path: "/Users/rdsairevops/Documents/GitHub/git-bundle-server.worktrees/revops/internal/bundles"
+  []
+idl-client info Registering client shared commands
+idl-client info Registering client node commands
+idl-client info Registering code commands
+idl-client info Trying to detect node.js
+idl-client info Starting the language server using "VSCode". Output from "node --version" (minimum is "16.0.0"):
+  spawnSync /bin/sh ETIMEDOUT
+idl-client info Starting language server
+idl-client info Registering debug configuration provider
+idl-client info Starting IDL debug server (not IDL)
+idl-client info Registering debug commands
+idl-client info Registering terminal commands
+idl-client info Registering webview commands
+idl-client info Registering ENVI opener
+idl-client info Registering docs commands
+idl-client info Registering notebook serializer and controller
+idl-client info Creating notebook renderer messenger
+idl-client info Registering notebook commands
+idl-client info Creating IDL tree view
+idl-client info initializing IDL tutorials
+idl-client info Registering IDLTutorials commands
+idl-lsp info Problem inclusion filters and ignore problem codes
+  { ALL: true, IDL_PATH: true, IDL_PACKAGES: false, DOCS: true }
+  [ 'implied-print-nb' ]
+idl-lsp info Language server garbage collection enabled: true
+idl-lsp info Language server full parse: true
+idl-mcp info Starting MCP server on port 4142
+idl-lsp info Server initialized, indexing code in these folders:
+  {
+    '/Users/rdsairevops/.vscode/extensions/idl.idl-for-vscode-5.1.0/idl/vscode/notebooks': true
+  }
+idl-lsp info Attempting to index 0 PRO file(s) with fast parse
+idl-lsp info Attempting to index 25 PRO file(s) with full parse
+idl-lsp info Finished indexing 25 file(s) in 14600 ms, see below for additional information
+  {
+    lines: 3915,
+    app_platform: 'darwin',
+    app_arch: 'arm64',
+    app_cpus: 8,
+    app_ram: 16,
+    app_ram_used: 0.25,
+    num_workers: 4,
+    parse_time: 6.22,
+    parse_rate: 629,
+    num_pro: 25,
+    num_pro_def: 0,
+    num_save: 0,
+    num_idl_task: 0,
+    num_envi_task: 0,
+    num_idl_json: 0,
+    num_notebook: 0,
+    time_total_ms: 14600,
+    time_search_ms: 0,
+    time_config_ms: 0,
+    time_task_ms: 0,
+    time_save_ms: 0,
+    time_notebook_ms: 0,
+    time_pro_ms: 6220
+  }
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-lsp info Memory cleanup and usage check (mb): 16
+idl-command info Opening IDL
+idl-debug-configuration info Resolving debug configuration
+idl-debug-adapter info IDL session history file: /Users/rdsairevops/.idl/vscode/idl-history.idllog
+idl-session info Starting IDL
+  {
+    cmd: '/Users/rdsairevops/Documents/GitHub/git-bundle-server.worktrees/revops/internal/bundles/idl',
+    dir: '/Users/rdsairevops/Documents/GitHub/git-bundle-server.worktrees/revops',
+    path: '+/Users/rdsairevops/.vscode/extensions/idl.idl-for-vscode-5.1.0/idl/vscode:<IDL_DEFAULT>',
+    dlm_path: '+/Users/rdsairevops/Documents/GitHub/git-bundle-server.worktrees/revops/internal/bundles'
+  }
+idl-session error Failed to start IDL
+  {
+    cmd: '/Users/rdsairevops/Documents/GitHub/git-bundle-server.worktrees/revops/internal/bundles/idl',
+    code: false,
+    signal: undefined,
+    capturedOutput: '',
+    error: Error: spawn /Users/rdsairevops/Documents/GitHub/git-bundle-server.worktrees/revops/internal/bundles/idl ENOENT
+        at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+        at onErrorNT (node:internal/child_process:483:16)
+        at processTicksAndRejections (node:internal/process/task_queues:90:21) {
+      errno: -2,
+      code: 'ENOENT',
+      syscall: 'spawn /Users/rdsairevops/Documents/GitHub/git-bundle-server.worktrees/revops/internal/bundles/idl',
+      path: '/Users/rdsairevops/Documents/GitHub/git-bundle-server.worktrees/revops/internal/bundles/idl',
+      spawnargs: []
+    }
+  }
+idl-lsp info Memory cleanup and usage check (mb): 16
